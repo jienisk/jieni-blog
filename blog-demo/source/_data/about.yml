@@ -1,5 +1,5 @@
 - class_name: 关于页
-  subtitle: 生活明朗，万物可爱✨
+  subtitle: 要想成就非凡，就要做非凡的事✨
   avatarImg: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.0/img/avatar.webp
   avatarSkills:
     left:
@@ -23,7 +23,7 @@
       - 生活
       - 程序
       - 体验
-  helloAbout: 我操你妈!
+  helloAbout: 心如止水
   skillsTips:
     tips: 技能
     title: 开启创造力

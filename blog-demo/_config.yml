@@ -104,5 +104,9 @@ theme: anzhiyu
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: git@github.com:jienisk/jienisk.github.io.git
+  repository: https://github.com/jienisk/jienisk.github.io.git
   branch: main
+hide_posts:
+  enable: true
+  # 隐藏带有 hidden: true 的文章
+  filter: hidden
