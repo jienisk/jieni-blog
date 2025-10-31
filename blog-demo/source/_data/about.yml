@@ -1,5 +1,5 @@
 - class_name: 关于页
-  subtitle: 生活明朗，万物可爱✨
+  subtitle: 要想成就非凡，就要做非凡的事✨
   avatarImg: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.0/img/avatar.webp
   avatarSkills:
     left:
@@ -23,7 +23,7 @@
       - 生活
       - 程序
       - 体验
-  helloAbout: 我操你妈!
+  helloAbout: 心如止水
   skillsTips:
     tips: 技能
     title: 开启创造力
@@ -31,11 +31,11 @@
     tips: 生涯
     title: 无限进步
     list:
-      - desc: EDU,计算机科学与技术专业
+      - desc: 嘟噜嘟噜嘟噜嘟噜嘟噜嘟噜
         color: "#357ef5"
-      - desc: EDU,计算机科学与技术专业
+      - desc: 嘟噜嘟噜嘟噜嘟噜嘟噜嘟噜
         color: "#357ef5"
-      - desc: EDU,计算机科学与技术专业
+      - desc: 嘟噜嘟噜嘟噜嘟噜嘟噜嘟噜
         color: "#357ef5"
     img: https://bu.dusays.com/2023/04/21/644287166329b.png
   statistic:
@@ -46,7 +46,7 @@
     title: 我现在住在
     StrengthenTitle: 中国，西安市
     background: https://bu.dusays.com/2023/07/05/64a4c61cb20ef.jpg
-    backgroundDark: https://bu.dusays.com/2023/07/05/64a4c63495ac5.jpg
+    backgroundDark: https://telegraph-image-dp7.pages.dev/file/AgACAgUAAyEGAASgAAGGzAADFWkBEkEjy68PGuFC8dAJ0RIK1txkAAIsDWsbkrQIVB3nl_jDXZhvAQADAgADdwADNgQ.jpg
   selfInfo:
     selfInfoTips1: 生于
     selfInfoContentYear: 1996
@@ -65,13 +65,13 @@
     maxim_top: 简简单单，
     maxim_bottom: 不值一提。
   buff:
-    buff_tips: 特长
-    buff_top: 脑回路新奇的 酸菜鱼
-    buff_bottom: 二次元指数 MAX
+    buff_tips: 嘟噜
+    buff_top: 嘟噜 嘟噜 嘟噜
+    buff_bottom: 嘟噜 嘟噜 嘟噜 嘟噜 嘟噜 嘟噜
   game:
     game_tips: 爱好游戏
-    game_title: 堡垒之夜
-    game_uid: "UID: 125766904"
+    game_title: 堡垒之夜、黑暗之魂、艾尔登法环、连连看
+    # game_uid: "UID: 125766904"
     game_bg: https://bu.dusays.com/2023/04/22/64433bf26e25d.webp
   comic:
     comic_tips: 爱好番剧
