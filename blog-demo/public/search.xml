@@ -59,7 +59,7 @@
       <link href="/article/%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
       <url>/article/%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE/</url>
       
-        <content type="html"><![CDATA[<h1 id="常用快捷键"><a href="#常用快捷键" class="headerlink" title="常用快捷键"></a>常用快捷键</h1><h2 id="vocode快捷键"><a href="#vocode快捷键" class="headerlink" title="vocode快捷键"></a>vocode快捷键</h2><p>全局替换：Ctrl+Shift+H</p><p>全局搜索文件：Ctrl + P</p><p>重构：F2 （万能重命名。修改变量、函数、类名等，所有引用处同步更改）</p><p>删除行：Ctrl + Shift + K</p><p>复制行到上下方: Alt + Shift + ↑&#x2F;↓</p><p>多选相同词: Ctrl + D</p><p>快速打开文件：Ctrl + P</p><p>选择到行首&#x2F;行尾：Shift + Home&#x2F;End</p><div class="video-container">[up主专用，视频内嵌代码贴在这]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
+        <content type="html"><![CDATA[<h1 id="常用快捷键"><a href="#常用快捷键" class="headerlink" title="常用快捷键"></a>常用快捷键</h1><h2 id="vocode快捷键"><a href="#vocode快捷键" class="headerlink" title="vocode快捷键"></a>vocode快捷键</h2><p>全局替换：Ctrl+Shift+H</p><p>全局搜索文件：Ctrl + P</p><p>重构：F2 （万能重命名。修改变量、函数、类名等，所有引用处同步更改）</p><p>删除行：Ctrl + Shift + K</p><p>复制行到上下方: Alt + Shift + ↑&#x2F;↓</p><p>多选相同词: Ctrl + D</p><p>快速打开文件：Ctrl + P</p><p>选择到行首&#x2F;行尾：Shift + Home&#x2F;End</p><p>我草拟的</p><div class="video-container">[up主专用，视频内嵌代码贴在这]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
       
       
       
